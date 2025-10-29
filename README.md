@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yeoh Zhe Heng
+# Hi 👋, I'm Zhe Heng
 
 ### An aspiring software developer
 
