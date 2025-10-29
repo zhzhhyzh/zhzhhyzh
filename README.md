@@ -2,7 +2,10 @@
 
 ### An aspiring software developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhzhhyzh&label=Profile views&color=0e75b6&style=flat" alt="zhzhhyzh" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zhzhhyzh&label=Profile%20views&color=0e75b6&style=flat" alt="zhzhhyzh" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhzhhyzh" alt="zhzhhyzh" /></a> </p>
 
