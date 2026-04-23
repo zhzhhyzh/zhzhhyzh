@@ -1,107 +1,157 @@
-# Hi 👋, I'm Zhe Heng  
-### 💻 Aspiring Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast  
+<h1 align="center">Zhe Heng</h1>
+<h3 align="center">Software Engineer · Full-Stack Developer · AI & Cloud</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zhzhhyzh&label=Profile%20views&color=0e75b6&style=flat" alt="zhzhhyzh" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/zhzhhyzh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:henryyzh0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1_YpoFNdwLFKetnLy71RLVpf7CDVjwgjb/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://github.com/zhzhhyzh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhzhhyzh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
-I’m an aspiring **Software Engineer** currently pursuing a **Bachelor of Software Engineering (Hons)** at **Tunku Abdul Rahman University of Management and Technology (TARUMT)**.  
+### About Me
 
-I have hands-on experience in **full-stack development** (Node.js, React.js, Spring Boot, MySQL, MongoDB) and am passionate about **building efficient, scalable, and user-centric applications**.  
+Software Engineering undergraduate at **Tunku Abdul Rahman University of Management and Technology (TARUMT)** with production experience in full-stack development. I build scalable backend systems, intuitive frontends, and AI-integrated applications — from concept to cloud deployment.
 
-I enjoy solving problems, exploring **AI-driven development**, and deploying solutions using **AWS**. I’m constantly learning and improving to bridge the gap between theory and real-world software engineering.
-
-- 🔭 Currently working on **Java Spring Boot backend projects**
-- 💬 Ask me about **React, Node.js, AWS Deployment, and Web Architecture**
-- 👨‍💻 Explore my projects: **[github.com/zhzhhyzh](https://github.com/zhzhhyzh)**
-- 📄 View my **[Resume](https://drive.google.com/file/d/1_YpoFNdwLFKetnLy71RLVpf7CDVjwgjb/view?usp=sharing)**
-- 📫 Reach me at **henryyzh0309@gmail.com**
+- Currently building with **Java Spring Boot**, **React**, and **AWS**
+- Experienced in shipping production-grade **Node.js** and **React.js** applications
+- Exploring **AI agents**, **LLM integration**, and **reinforcement learning**
 
 ---
 
-### 🏆 GitHub Achievements
+### Professional Experience
+
+**Full-Stack Developer** · 33Digitec Solution · Petaling Jaya, KL  
+`Mar 2023 – Mar 2025`  
+Developed RESTful APIs with Node.js/Express, built reusable React.js components, and managed deployments with PM2 in an agile team environment.
+
+**Project Developer** · Persis · Remote  
+`Mar 2025 – Sep 2025`  
+Built a mobile analytics platform with Reinforcement Learning — Node.js backend, Python AI models, Flutter frontend, deployed on AWS EC2.
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/zhzhhyzh/AI-Banking">AI-Banking</a></h3>
+      <p align="center">
+        <a href="https://github.com/zhzhhyzh/AI-Banking"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+      </p>
+      <p align="center">AI-powered bank where a LangChain agent acts as your Relationship Manager — executing transactions, assessing fraud risk, and managing accounts through natural conversation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/zhzhhyzh/ShieldGuard">ShieldGuard</a></h3>
+      <p align="center">
+        <a href="https://github.com/zhzhhyzh/ShieldGuard"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></a>
+      </p>
+      <p align="center">AI-powered interview assistant with screen capture protection. Invisible to screen sharing, recordings, and Alt+Tab. Supports multiple LLM providers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/zhzhhyzh/my-tools">My-Tools</a></h3>
+      <p align="center">
+        <a href="https://github.com/zhzhhyzh/my-tools"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+      </p>
+      <p align="center">Free, open-source PDF tools suite — 25+ tools to merge, split, compress, convert, rotate, watermark, OCR, and more. Self-hosted with no upload limits.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/zhzhhyzh/dev-tools">Dev-Tools</a></h3>
+      <p align="center">
+        <a href="https://github.com/zhzhhyzh/dev-tools"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></a>
+      </p>
+      <p align="center">All-in-one developer tools hub — timestamp converter, JSON/XML formatter, QR generator, regex tester, collaborative notepad, and more.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/zhzhhyzh/StallSync-api">StallSync</a></h3>
+      <p align="center">
+        <a href="https://github.com/zhzhhyzh/StallSync-api"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+      </p>
+      <p align="center">Food Stalls Management System with time-series forecasting. Final Year Project — graded A+.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/zhzhhyzh/invento-api">Invento</a></h3>
+      <p align="center">
+        <a href="https://github.com/zhzhhyzh/invento-api"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+      </p>
+      <p align="center">Inventory Management System built with Spring Boot, React, and MySQL — full CRUD with analytics dashboard.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/zhzhhyzh?tab=repositories">View All Projects →</a>
+</p>
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,typescript,js,py,cpp,flutter&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,aws,docker,git,github,gitlab,postman,figma&perline=10" />
+</p>
+
+<details>
+<summary><b>Detailed Breakdown</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java · JavaScript (ES6+) · TypeScript · Python · C++ · Dart |
+| **Frontend** | React.js · Flutter · HTML5 · CSS3 |
+| **Backend** | Node.js · Express.js · Spring Boot |
+| **Databases** | MySQL · MongoDB · Redis |
+| **Cloud & DevOps** | AWS (EC2, RDS, S3) · Docker · PM2 · Git |
+| **AI / ML** | LangChain · Pandas · Scikit-learn · Reinforcement Learning (PPO, Q-learning) · Time-Series Forecasting |
+| **Tools** | Postman · Figma · VS Code · IntelliJ IDEA |
+
+</details>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zhzhhyzh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhzhhyzh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhzhhyzh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhzhhyzh&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zhzhhyzh&theme=darkhub&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-### 💼 Experience
+### Awards & Recognition
 
-#### 💡 Full-Stack Developer | 33Digitec Solution  
-📍 Petaling Jaya, Kuala Lumpur | 🗓️ Mar 2023 – Mar 2025  
-- Developed **RESTful APIs** using **Node.js** and **Express**, following clean and modular architecture.  
-- Built responsive and reusable **React.js** frontend components based on user and business requirements.  
-- Collaborated in an agile environment with Git for version control and deployment management.  
-- Gained hands-on experience using **PM2** for Node.js process management and load balancing.  
-
-#### 🤖 Project Developer | Persis (Remote)  
-🗓️ Mar 2025 – Sep 2025  
-- Developed **Persis App**, a mobile platform leveraging **Reinforcement Learning** for personalized user analytics.  
-- Built backend with **Node.js**, integrated **Python-based AI** models, and developed the **Flutter frontend**.  
-- Deployed on **AWS EC2**, used **PM2** for uptime management, and implemented version control using **Git**.  
+| Award | Details |
+|-------|---------|
+| **Scholarship Recipient** | TARUMT Bachelor's Degree Scholarship for academic excellence |
+| **President's List (x5)** | May 2023 · Jan 2024 · May 2024 · Sep 2024 · Jan 2025 |
+| **Soft Skills Competency Gold Award** | TARUMT |
+| **International Programs** | Hackathon & exchange programs with students from Vietnam, China, and the U.S. |
 
 ---
-
-### 🧩 Featured Technical Skills
-
-#### 💻 Languages & Frameworks
-`Java` · `JavaScript (ES6+)` · `TypeScript` · `Python` · `C++`  
-`Node.js` · `Express.js` · `React.js` · `Spring Boot` · `Flutter`
-
-#### 🗄️ Databases
-`MySQL` · `MongoDB`
-
-#### ☁️ Cloud & DevOps
-`AWS (EC2, RDS, S3)` · `Docker` · `PM2` · `Git` · `GitHub` · `GitLab`
-
-#### 🧠 AI & Data Science
-`Pandas` · `Scikit-learn` · `Reinforcement Learning (PPO, Q-learning)` · `Time-Series Forecasting`
-
-#### 🧰 Tools & Design
-`Postman` · `Figma` · `VS Code` · `IntelliJ IDEA`
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,typescript,js,html,py,cpp,mysql,mongodb,aws,docker,git,postman,figma,flutter,scikitlearn,pandas&perline=9" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhzhhyzh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhzhhyzh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <i>Open to collaboration and opportunities — let's build something impactful.</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhzhhyzh" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏅 Awards & Achievements
-- 🎓 **TARUMT Bachelor’s Degree Scholarship Recipient** for academic excellence.  
-- 🏆 **President’s List (x5)** – May 2023, Jan 2024, May 2024, Sept 2024, Jan 2025.  
-- 🥇 **Soft Skills Competency Gold Award** – TARUMT.  
-- 🌏 Participated in **international hackathon and exchange programs** with students from Vietnam, China, and the U.S.  
-
----
-
-### 🌱 Current Focus
-> “Building scalable backend systems and crafting intuitive user experiences with full-stack technologies.”
-
----
-
-⭐ **Fun Fact:** I enjoy tackling algorithmic challenges on **LeetCode**, experimenting with **AI automation**, and deploying personal projects on **AWS**!
-
