@@ -1,4 +1,4 @@
-<h1 align="center">Zhe Heng</h1>
+<h1 align="center">Zhe Heng Y.</h1>
 <h3 align="center">Software Engineer · Full-Stack Developer · AI & Cloud</h3>
 
 <p align="center">
@@ -31,8 +31,12 @@ Software Engineering undergraduate at **Tunku Abdul Rahman University of Managem
 Developed RESTful APIs with Node.js/Express, built reusable React.js components, and managed deployments with PM2 in an agile team environment.
 
 **Project Developer** · Persis · Remote  
-`Mar 2025 – Sep 2025`  
+`Mar 2025 – Oct 2025`  
 Built a mobile analytics platform with Reinforcement Learning — Node.js backend, Python AI models, Flutter frontend, deployed on AWS EC2.
+
+**JAVA Backend Engineer** · Ant International · 106 TRX Exchange, KL  
+`Nov 2025 – Apr 2026`  
+Develop Features for IotServer that used by Bluetap, a device that is dedicated for QR Scan, NFC Touch and Cards payments which can be found in SEA.
 
 ---
 
